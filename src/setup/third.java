@@ -7,9 +7,9 @@ public class third {
     /*
     I like what we are doing here
 
+     /*
+     life is beautiful
      */
-
-
 
 
 }
