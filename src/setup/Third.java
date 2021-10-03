@@ -1,6 +1,6 @@
 package setup;
 
-public class third {
+public class Third {
 //    Im doing this for the first time by myself
 //    I found it fun
 
