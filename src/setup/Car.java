@@ -6,5 +6,5 @@ public class Car {
 
     //we will have conflict
 
-    //because there is different text in different branches for car c
+    //because there is different text in different branches for car car
 }
